@@ -2,7 +2,7 @@
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
-## Try me! Hiiiii
+## Try me! Hiiiiiiiiii
 
 ```
 brew tap srcclr/srcclr
